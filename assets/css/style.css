@@ -11,3 +11,7 @@
 
 header { padding: 2rem max(1rem, 5vw); background: #142938; color: white; }
 h1 { font-family: "Sixtyfour Convergence", monospace; font-size: clamp(1.2rem, 4vw, 2.4rem); }
+
+body { background: #eef4f6; color: #142938; font-family: system-ui, sans-serif; }
+main { max-width: 56rem; margin: auto; min-height: 55vh; padding: 3rem 1rem; }
+main p { margin-top: 1rem; line-height: 1.6; }
